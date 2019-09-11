@@ -1,1 +1,1 @@
-Ajedres
+Ajedrez
